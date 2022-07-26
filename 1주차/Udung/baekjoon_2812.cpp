@@ -1,6 +1,7 @@
 #include <iostream>
 //baekjoon 2812 크게만들기
 
+
 class Stack {
 public:
 	int n[500001];
