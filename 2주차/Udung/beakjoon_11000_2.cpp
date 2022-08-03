@@ -14,20 +14,12 @@ inline void swap(int* a, int* b) {
 bool comp_sort(int a[], int b[]) {
 	if (a[0] > b[0])
 		return false;
-	if (a[0] == b[0]) {
-		if (a[1] > b[1])
-			return false;
-	}
 	return true;
 
 }
 bool comp_solve(int a[], int b[]) {
 	if (a[1] > b[1])
 		return false;
-	//if (a[1] == b[0]) {
-	//	if (a[1] > b[1])
-	//		return false;
-	//}
 	return true;
 
 }
