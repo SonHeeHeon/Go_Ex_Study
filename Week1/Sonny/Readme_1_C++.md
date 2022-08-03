@@ -74,3 +74,10 @@
 + c++에서는 bool 자료형 가능
 
 ## 3장 클래스의 기본 
+
+
+## Plus Point
+
+1. 구조체
+    
+    https://saack.tistory.com/75
