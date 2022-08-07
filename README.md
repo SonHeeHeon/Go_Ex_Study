@@ -55,4 +55,5 @@
 | ----- | -------- | -------------------------- | ---------------------------------------------------- |
 | 1주차 |          | C/C++ 자율 스터디          | [1주차](./1주차)                                     |
 | 2주차 | 자료구조 | 백준 문제풀이(강의실 배정) | [강의실 배정](https://www.acmicpc.net/problem/11000) |
+| 3주차 | 자료구조 | 백준 문제풀이(Count Circle Groups,트리인가?) | [Count Circle Groups](https://www.acmicpc.net/problem/10216), [트리인가](https://www.acmicpc.net/problem/6416) |
 
