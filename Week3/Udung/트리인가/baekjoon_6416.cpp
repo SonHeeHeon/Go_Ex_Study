@@ -1,6 +1,5 @@
 // 백준 6416 트리인가
 
-
 #include <iostream>
 int parent[14];
 int find(int node) {
