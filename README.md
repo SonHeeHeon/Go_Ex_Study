@@ -54,6 +54,9 @@
 | 날짜  | 유형     | 내용                       | 링크                                                 |
 | ----- | -------- | -------------------------- | ---------------------------------------------------- |
 | 1주차 |          | C/C++ 자율 스터디          | [1주차](./Week1)                               |
-| 2주차 | 자료구조 | 백준 문제풀이(강의실 배정) | [강의실 배정](https://www.acmicpc.net/problem/11000) |
-| 3주차 | 자료구조 | 백준 문제풀이(Count Circle Groups,트리인가?) | [Count Circle Groups](https://www.acmicpc.net/problem/10216), [트리인가](https://www.acmicpc.net/problem/6416) |
+| 2주차 | 우선순위 큐 | 백준 문제풀이(강의실 배정) | [강의실 배정](https://www.acmicpc.net/problem/11000) |
+| 3주차 | 유니온 파인드 | 백준 문제풀이(Count Circle Groups,트리인가?) | [Count Circle Groups](https://www.acmicpc.net/problem/10216), [트리인가](https://www.acmicpc.net/problem/6416) |
+| 4주차 | 트리 | 백준 문제풀이(트리의 지름) | [트리의 지름](https://www.acmicpc.net/problem/1967) |
+
+
 
